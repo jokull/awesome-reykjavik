@@ -1,10 +1,8 @@
 # Awesome Reykjavík
 
-A guide for expats moving to- or living in Reykjavík and the Iceland Capital
-Region.
+A guide to moving to Reykjavík and the capital region.
 
-Pages that are not yet linked are suggestions for pages if anyone wants to
-contribute.
+Pages that are not yet linked are suggestions for pages. We welcome contributions. See [how to contibute](#how-to-contribute) below.
 
 ## Guides
 
@@ -24,30 +22,24 @@ contribute.
 1. Access to healthcare
 1. Schools for expats
 1. [Getting help](guides/getting-help.md)
+1. [Language](guides/language.md)
 1. Eating out and ordering in
 1. [About the Icelander](guides/icelanders.md)
 
 ## The Trinity: Kennitala, Mobile Plan and Bank Account
 
-!!! warning
-    This is a draft section, we are still verifying this works as described.
-    We’re not 100% sure that Auðkenni can be activated with kennitala and
-    passport alone.
-
-If you are being employed in Iceland, assuming you have a permanent residence,
+If you have employment in Iceland, and assuming you have a permanent address,
 this is the order of things:
 
 1. :material-fingerprint: **Get a kennitala** →
    [Kennitala](guides/kennitala.md). This takes five days to process if all
-   documents are submitted correctly.
+   documents are submitted correctly. Do this as soon as you arrive.
 2. :material-phone: **Get a mobile plan** → [Mobile
-   plans](guides/mobile-phones.md). Sign up for a monthly plan and get a
-   verified [electronic certificate](guides/audkenni.md). You will need to
-   visit a telco branch and bring your passport. Use your non-Icelandic credit
-   card for billing as you are not yet banked.
+   plans](guides/mobile-phones.md). You'll need to
+   visit a mobile branch and bring your passport. Use your non-Icelandic credit
+   card for billing as you haven't opened a bank account yet.
 3. :material-bank: **Get bank account** → [Bank
-   account](guides/bank-account.md). Once you have Auðkenni, you can get banked
-   directly online without visiting a branch. 
+   account](guides/bank-account.md). Visit a branch to open a bank account and set up your [electronic certificate](guides/audkenni.md)
 
 There are of course other ways to go about it, but this is probably the
 quickest way to onboard.
@@ -66,4 +58,3 @@ contribute.
 1. If you're not familiar with Github, you can email
    [jokull@solberg.is](mailto:jokull@solberg.is) to publish a guide of your
    own.
-

@@ -6,6 +6,6 @@
 - Eurovision
 - Christmas and New Year’s
 - Public swimming pools
-- Sauce
+- Copious amounts of sauce
 - Licorice
 

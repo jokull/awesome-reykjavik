@@ -1,19 +1,18 @@
 # Driver’s license
 
-Permanent residents of Iceland must have an Icelandic driver’s license to
-drive. A license issued in the Faroe Islands or a country that is party to the
-EEA agreement is except from that rule.
+If you have a driving licence from an EEA country you can drive in Iceland using your foriegn licence for the first 6 months.
+It's a good idea to trade in your driver's licence for an Icelandic one as soon as possible. This will likely be your main physical Icelandic ID.
 
 ## Trading a foreign license
 
-Those living in Iceland can trade their foreign driver’s license for an
-Icelandic one.
+You can trade in your driving licence at Sýslumaðurinn (The office of the district magistrate). Go to your local branch to fill in the required form. Alternatively, you can email [smh@syslumenn.is](mailto:smh@syslumenn.is) or
+call +354 458 2000.
 
-The office of the district magistrate will have the proper forms for doing so.
-You can reach it by emailing [smh@syslumenn.is](mailto:smh@syslumenn.is) or
-calling +354 458 2000.
+An application usually includes:
 
-An application must usually include:
 - A 35x45 mm photograph of the applicant.
 - The foreign driver’s license.
 - A statement of good health or a health certificate.
+
+!!!tip
+    If you require glasses to drive, you may need to get a note from Doctor to confirm your vision is adequate for driving.
