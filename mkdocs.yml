@@ -3,7 +3,7 @@ theme:
   name: material
   language: en
 repo_name: jokull/awesome-reykjavik
-repo_url: https://github.com/awesome-reykjavik
+repo_url: https://github.com/jokull/awesome-reykjavik
 markdown_extensions:
   - admonition
   - toc:
@@ -16,3 +16,4 @@ nav:
         - 'Mobile plan': 'guides/mobile-phones.md'
         - 'Public transport': 'guides/public-transport.md'
         - 'Bank account': 'guides/bank-account.md'
+        - 'Getting a car': 'guides/getting-a-car.md'
