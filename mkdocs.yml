@@ -1,0 +1,18 @@
+site_name: Awesome Reykjavík
+theme:
+  name: material
+  language: en
+repo_name: jokull/awesome-reykjavik
+repo_url: https://github.com/awesome-reykjavik
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+    - Home: 'index.md'
+    - 'Guides':
+        - 'Neighbourhoods': 'guides/neighbourhoods.md'
+        - 'Driver’s license': 'guides/drivers-license.md'
+        - 'Mobile plan': 'guides/mobile-phones.md'
+        - 'Public transport': 'guides/public-transport.md'
+        - 'Bank account': 'guides/bank-account.md'
