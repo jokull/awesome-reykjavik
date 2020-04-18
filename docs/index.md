@@ -47,8 +47,7 @@ this is the order of things:
    card for billing as you are not yet banked.
 3. :material-bank: **Get bank account** → [Bank
    account](guides/bank-account.md). Once you have Auðkenni, you can get banked
-   directly online without visiting a branch. Just download the Íslandsbanki or
-   Arion app and log in with Auðkenni.
+   directly online without visiting a branch. 
 
 There are of course other ways to go about it, but this is probably the
 quickest way to onboard.
