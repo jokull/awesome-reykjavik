@@ -33,13 +33,14 @@ this is the order of things:
 
 1. :material-fingerprint: **Get a kennitala** →
    [Kennitala](guides/kennitala.md). This takes five days to process if all
-   documents are submitted correctly. Do this as soon as you arrive.
+   documents are submitted correctly. Start this process online before you
+   depart.
 2. :material-phone: **Get a mobile plan** → [Mobile
    plans](guides/mobile-phones.md). You'll need to
    visit a mobile branch and bring your passport. Use your non-Icelandic credit
    card for billing as you haven't opened a bank account yet.
-3. :material-bank: **Get bank account** → [Bank
-   account](guides/bank-account.md). Visit a branch to open a bank account and set up your [electronic certificate](guides/audkenni.md)
+3. :material-bank: **Get a bank account** → [Bank
+   account](guides/bank-account.md). Visit a branch to open a bank account and set up your [electronic certificate](guides/audkenni.md).
 
 There are of course other ways to go about it, but this is probably the
 quickest way to onboard.

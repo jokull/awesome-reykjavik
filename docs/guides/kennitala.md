@@ -2,9 +2,14 @@
 
 *a.k.a. ID number / Social security number*
 
-Iceland uses a national ID system called kennitala. It's a single ID number that's used for tax, insurance, car registration, bank transfers, receipts and much more. It's essential to apply for a kennitala as soon as you arrive as it's used for just about everything that involves ID.
+Iceland uses a national ID system called kennitala. It's a single ID number
+that's used for tax, insurance, car registration, bank transfers, receipts and
+much more. It's essential to apply for a kennitala as soon as you arrive as
+it's used for just about everything that involves ID.
 
-Your kennitala is a 10 digit number where the first six numbers are your date of birth in the format DDMMYYY. Kennitalas are public and don't contain any secret information (apart from your data of birth).
+Your kennitala is a 10 digit number where the first six numbers are your date
+of birth in the format DDMMYYY. Kennitalas are public and don't contain any
+secret information (apart from your data of birth).
 
 Companies also have kennitalas.
 
@@ -20,9 +25,9 @@ Companies also have kennitalas.
 It’s relatively simple for residents of the EU/EEA to acquire a kennitala.
 
 !!! warning
-    As of 2020, individuals can no longer apply for a kennitala directly with Þjóðskrá (the national register).
-    If you have a job in Iceland, ask your employer to apply for one through Skatturinn (local tax
-    authorities).
+    As of 2020, individuals can no longer apply for a kennitala directly with
+    Þjóðskrá (the national register). If you have a job in Iceland, ask your
+    employer to apply for one through Skatturinn (local tax authorities).
 
 If you intend to stay more than three months you need to prove your EU/EEA residency after filing digitally an A-271 form. ).
 

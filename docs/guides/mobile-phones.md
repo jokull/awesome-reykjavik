@@ -1,6 +1,6 @@
 # Mobile phone
 
-Iceland has widespread 4g coverage at competitive prices.
+Iceland has widespread 4G coverage at competitive prices.
 
 !!! note
     Iceland is part of an EU/EFTA trade agreement which means data, SMS and phone call pricing is the same for people traveling within the European Economic Area.
@@ -20,4 +20,7 @@ Compare plans at [Aurbjörg](https://aurbjorg.is/#/farsimi). Some companies offe
 
 ## Home internet
 
-Most homes in Iceland have access to high-speed fibre optic internet. Depending on your provider, you may pay a separate line-rental charge for the fibre cable in addition to the Internet service charge. Some providers bundle this cost, so check this when comparing prices.
+Most homes in Iceland have access to high-speed fibre optic internet. Depending
+on your provider, you may pay a separate line-rental charge for the fibre cable
+in addition to the Internet service charge. Some providers bundle this cost, so
+check this when comparing prices.
