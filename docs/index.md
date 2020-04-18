@@ -28,19 +28,23 @@ Pages that are not yet linked are suggestions for pages. We welcome contribution
 
 ## The Trinity: Kennitala, Mobile Plan and Bank Account
 
-If you have employment in Iceland, and assuming you have a permanent address,
-this is the order of things:
+If you have employment in Iceland and are willing to wait up to 5 days with
+your foreign SIM card while you wait for kennitala, this is the order of
+things:
 
 1. :material-fingerprint: **Get a kennitala** →
    [Kennitala](guides/kennitala.md). This takes five days to process if all
    documents are submitted correctly. Start this process online before you
-   depart.
+   depart for Iceland.
 2. :material-phone: **Get a mobile plan** → [Mobile
    plans](guides/mobile-phones.md). You'll need to
-   visit a mobile branch and bring your passport. Use your non-Icelandic credit
+   visit a telco branch and bring your passport. Use your non-Icelandic credit
    card for billing as you haven't opened a bank account yet.
 3. :material-bank: **Get a bank account** → [Bank
    account](guides/bank-account.md). Visit a branch to open a bank account and set up your [electronic certificate](guides/audkenni.md).
+
+Potentially you could try to activate the electronic certificate on your visit
+to the telco branch.
 
 There are of course other ways to go about it, but this is probably the
 quickest way to onboard.
