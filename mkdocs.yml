@@ -5,6 +5,9 @@ theme:
 repo_name: jokull/awesome-reykjavik
 repo_url: https://github.com/jokull/awesome-reykjavik
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - admonition
   - toc:
       permalink: true
