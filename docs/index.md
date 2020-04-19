@@ -10,6 +10,7 @@ contribute.
 
 1. Finding a temporary place to stay
 1. [Working in Iceland](guides/working-in-iceland.md)
+1. [The local tech scene](guides/tech-scene.md)
 1. [Mobile and internet access](guides/mobile-phones.md)
 1. [Kennitala (national ID)](guides/kennitala.md)
 1. [Auðkenni (electric identity)](guides/audkenni.md)
