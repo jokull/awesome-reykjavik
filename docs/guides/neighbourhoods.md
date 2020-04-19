@@ -34,17 +34,17 @@ of Laugardalur are actually walkable and bike friendly.
 
 ## Miðbær (a.k.a. Downtown, 101 postcode)
 
-This is the downtown area and „old town“. This is where service, cafe’s, clubs
+This is the downtown area and „old town“. This is where service, cafes, clubs
 and restaurants are clustered.
 
 This is by far the most touristy area with a density of high hotel and tourist
 accommodation.
 
-On friday and saturday nights young Icelander’s travel from all over the
+On friday and saturday nights young Icelanders travel from all over the
 Capital Region to party in the clubs in and around Laugavegur/Bankastræti.
 
 **Landmarks:** Hallgrímskirkja, Alþingi (The Parliament), Landspítali, BSÍ bus
-terminal, Laugavegur (the „main“ street), City Hall, domestic flights airport,
+terminal, Laugavegur (the „main“ street), City Hall, Harpa concert hall & conference venue, domestic flights airport,
 University of Iceland.
 
 ## Vesturbær (107 postcode, with parts of 101)

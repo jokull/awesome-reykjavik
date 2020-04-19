@@ -1,13 +1,19 @@
 # Kennitala
 
-*a.k.a. Resident’s ID / National ID*
+*a.k.a. ID number / Social security number*
 
-Nothing works without kennitala. Kennitala is the national ID system. It is a
-10 digit with the first six in the DDMMYYY birthday format, the last digit
-being the century. Company’s also have kennitalas. There is no sensitive
-information stored in the kennitala number, only your birthday.
+Iceland uses a national ID system called kennitala. It's a single ID number
+that's used for tax, insurance, car registration, bank transfers, receipts and
+much more. It's essential to apply for a kennitala as soon as you arrive as
+it's used for just about everything that involves ID.
 
-!!! tip 
+Your kennitala is a 10 digit number where the first six numbers are your date
+of birth in the format DDMMYYY. Kennitalas are public and don't contain any
+secret information (apart from your data of birth).
+
+Companies also have kennitalas.
+
+!!! tip
     If you are staying less than three months and are a national of the EU/EEA
     you can quickly obtain a 3-month temporary kennitala by [submitting an
     A-263 form](https://www.rsk.is/media/rsk03/rsk_0330.en.pdf) to Skatturinn
@@ -16,22 +22,22 @@ information stored in the kennitala number, only your birthday.
 
 ## EU/EEA
 
-It’s relatively simple for residents of the EU/EEA to acquire a kennitala. 
+It’s relatively simple for residents of the EU/EEA to acquire a kennitala.
 
 !!! warning
-    Only public authorities can apply for a kennitala. Individuals receiving
-    salary in Iceland can work with their employer for Skatturinn (local tax
-    authorities) to apply for kennitala at Skrá (the registers) for you.
+    As of 2020, individuals can no longer apply for a kennitala directly with
+    Þjóðskrá (the national register). If you have a job in Iceland, ask your
+    employer to apply for one through Skatturinn (local tax authorities).
 
 If you intend to stay more than three months you need to prove your EU/EEA residency after filing digitally an A-271 form. ).
 
 [Source: Skrá.is](https://www.skra.is/english/individuals/moving-to-iceland/i-am-an-eea-efta-citizen/)
 
-1. Before arriving in Iceland submit an [A-271](https://www.skra.is/umsoknir/rafraen-skil/skraning-ees-eda-efta-borgara-i-thjodskra-til-lengri-tima-en-3-man/?lang=en). 
+1. Before arriving in Iceland submit an [A-271](https://www.skra.is/umsoknir/rafraen-skil/skraning-ees-eda-efta-borgara-i-thjodskra-til-lengri-tima-en-3-man/?lang=en).
 2. When you arrive, visit the nearest police station to present your
    idenfication and documents (passport), referencing the application number.
-3. The kennitala will be sent to you via email when an valid applicant is 
-   processed. 
+3. The kennitala will be sent to you via email when an valid applicant is
+   processed.
 
 ### A-271 Steps: Preparing documents and information
 
