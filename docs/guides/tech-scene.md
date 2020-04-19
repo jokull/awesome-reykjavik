@@ -4,7 +4,7 @@ The local tech scene is small but relatively accessible - given the number of fo
 
 ## Main Characteristics
 
-The Reykjavik tech scene is small, but growing. It's characterised by several established companies, and a host of smaller ones. Recent growth in local venture capital funding has spurred a bigger number of local, funded, startups, that aim at international markets. While there are companies active in many sectors (from gaming, to developer tools, to data analysis, to fintech), the small size of the scene makes for a rather general approach, i.e. we don't have real organised sectors within the tech scene, with several exceptions.
+Small, but growing is probably the best way to describe it. It's characterised by several established companies, and a host of smaller ones. Recent growth in local venture capital funding has spurred a bigger number of local, funded, startups, that aim at international markets. While there are companies active in many sectors (from gaming, to developer tools, to data analysis, to fintech), the small size of the scene makes for a rather general approach, i.e. we don't have real organised sectors within the tech scene, with several exceptions.
 
 ### Gaming
 
@@ -14,7 +14,7 @@ In recent years, several other startup gaming companies have received funding an
 
 ### Fintech
 
-Similar to gaming, Icelandic fintech is small with a decisive main player - [Meniga](https://meniga.com). The community is organised by organisations like the [Icelandic Fintech Cluster](https://en.fjartaekniklasinn.is), which both runs an office space in one of Reykjavikv's "skyscrapers" and hosts regular events, conference trips and investor meetups, and the [Icelandic Blockchain Foundation](https://www.ibf.is), which as the name suggests, is focused on Blockchain.
+Similar to gaming, Icelandic fintech is small with a decisive main player - [Meniga](https://meniga.com). The community is organised by organisations like the [Icelandic Fintech Cluster](https://en.fjartaekniklasinn.is), which both runs an office space in one of Reykjavik's "skyscrapers" and hosts regular events, conference trips and investor meetups, and the [Icelandic Blockchain Foundation](https://www.ibf.is), which as the name suggests, is focused on Blockchain.
 
 ## Organisers
 
