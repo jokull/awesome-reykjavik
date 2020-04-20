@@ -9,8 +9,8 @@ Small, but growing is probably the best way to describe it. It's characterised b
 ### Gaming
 
 The gaming sector is small, but one of the few within tech that are organised. Through lobby groups like [Iceland Gaming Industry](https://www.igi.is) and community organisers like [Game Makers Iceland](https://www.gamemakers.is), there's decent visible activity.
-The main player in the gaming sector is [CCP Games](https://ccpgames.com) developer of Eve Online.
-In recent years, several other startup gaming companies have received funding and released games to some success (the jury is still out on that one), including [Solid Clouds](https://www.solidclouds.com), [1939 Games](www.1939games.com).
+The main player in the gaming sector is [CCP Games](https://www.ccpgames.com/) developer of [EVE Online](https://www.eveonline.com/). 
+In recent years, several other startup gaming companies have received funding and released games to some success (the jury is still out on that one), including [Solid Clouds](https://www.solidclouds.com), [1939 Games](https://www.1939games.com).
 
 ### Fintech
 
