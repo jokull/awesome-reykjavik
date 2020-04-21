@@ -36,6 +36,18 @@ from these unless there is a crushing need for something.
 
 Krambúð is a convenience store with a more local flavor.
 
+## Specialty
+
+- [Istanbul Market](https://facebook.com/Istanbul-Market-Matvöruverslun-142761232597988/)
+- [Euro Market (Polish)](http://euromarket.is)
+- [Mai Thai](https://www.maithai.is)
+- [Vietnam Market](https://www.facebook.com/Vietnam-Market-Asian-supermarket--224989370862422/)
+- [Fiska (Japenese)](http://www.fiska.is)
+- [Dai Phat Asian Supermarket](https://en.ja.is/dai-phat/)
+- [AfroZone](https://www.facebook.com/AfroZoneehf/)
+- [Vúlkan Hot Sauces](https://www.facebook.com/vulkanverslun)
+- [TeaTröll](http://teatroll.is/magento/)
+
 ## Online
 
 [Heimkaup](http://heimkaup.is) and [Netto](http://netto.is) are the primary
