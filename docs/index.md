@@ -17,7 +17,7 @@ Pages that are not yet linked are suggestions for pages. We welcome contribution
 1. [Public transport](guides/public-transport.md)
 1. [Getting a car](guides/getting-a-car.md)
 1. Shopping for furniture and electronics
-1. Grocery shopping
+1. [Grocery shopping](guides/groceries.md)
 1. [Getting a bank account](guides/bank-account.md)
 1. [Driver’s license](guides/drivers-license.md)
 1. Access to healthcare
@@ -51,6 +51,13 @@ bank apps.
 
 There are of course other ways to go about it, but this is probably the
 quickest way to onboard.
+
+## Contributors
+
+- [Jökull Sólberg](https://github.com/jokull)
+- [David Blurton](https://github.com/davidblurton)
+- [Kristinn Árni L. Hróbjartsson](https://github.com/kiddi)
+- [Brynjar Örnu- og Guðnason](https://github.com/brynjarog)
 
 ## How to contribute
 
