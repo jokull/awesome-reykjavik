@@ -29,24 +29,24 @@ service.
 
 ## Convenience
 
-10-11 is a super expensive and touristy convenience store with a rather bad
-uniform selection. The brand was founded on being open from 10 to 11, but they
-quickly became 24/7 without changing their name, confusingly. Try to stay away
-from these unless there is a crushing need for something.
-
-Krambúð is a convenience store with a more local flavor.
+Krambúðin are corner shops all over town. Many gas stations have some
+necessities too. Independently run corner shops used to be an interesting
+Icelandic subculture when video rentals were lively. Only a few survive in
+Miðbær.
 
 ## Specialty
 
 - [Istanbul Market](https://facebook.com/Istanbul-Market-Matvöruverslun-142761232597988/)
+- [Hyalin (French)](https://www.hyalin-reykjavik.com)
 - [Euro Market (Polish)](http://euromarket.is)
 - [Mai Thai](https://www.maithai.is)
 - [Vietnam Market](https://www.facebook.com/Vietnam-Market-Asian-supermarket--224989370862422/)
-- [Fiska (Japenese)](http://www.fiska.is)
+- [Fiska (South-East Asian)](http://www.fiska.is)
 - [Dai Phat Asian Supermarket](https://en.ja.is/dai-phat/)
 - [AfroZone](https://www.facebook.com/AfroZoneehf/)
 - [Vúlkan Hot Sauces](https://www.facebook.com/vulkanverslun)
 - [TeaTröll](http://teatroll.is/magento/)
+- [Melabúðin (general, but with lots of specialty)](https://www.facebook.com/melabudin/)
 
 ## Online
 
