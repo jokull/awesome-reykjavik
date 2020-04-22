@@ -37,16 +37,25 @@ Miðbær.
 ## Specialty
 
 - [Istanbul Market](https://facebook.com/Istanbul-Market-Matvöruverslun-142761232597988/)
-- [Hyalin (French)](https://www.hyalin-reykjavik.com)
-- [Euro Market (Polish)](http://euromarket.is)
+- [Hyalin](https://www.hyalin-reykjavik.com) (French)
+- [Euro Market](http://euromarket.is) (Polish)
 - [Mai Thai](https://www.maithai.is)
 - [Vietnam Market](https://www.facebook.com/Vietnam-Market-Asian-supermarket--224989370862422/)
-- [Fiska (South-East Asian)](http://www.fiska.is)
+- [Fiska](http://www.fiska.is) (South-East Asian)
 - [Dai Phat Asian Supermarket](https://en.ja.is/dai-phat/)
 - [AfroZone](https://www.facebook.com/AfroZoneehf/)
+- [Blóm í eggi](https://www.facebook.com/groups/233643013444167) (South American)
+- [Melabúðin](https://www.facebook.com/melabudin/) (general, but with lots of specialty)
+- [Pylsumeistarinn](https://www.facebook.com/pages/category/Specialty-Grocery-Store/Pylsumeistarinn-200052636686451/) (Polish deli, additive free meats)
+- [Miðausturlenska búðin](https://www.facebook.com/Holagardur/) (Middle Eastern)
+- [Vegan Búðin](https://www.facebook.com/veganbudin/)
+- [Frú Lauga](http://www.frulauga.is) (Organic produce)
+- [Kolaportið](https://www.facebook.com/kolaportid.is/) (Weekend bazaar market)
+
+Online
+
 - [Vúlkan Hot Sauces](https://www.facebook.com/vulkanverslun)
 - [TeaTröll](http://teatroll.is/magento/)
-- [Melabúðin (general, but with lots of specialty)](https://www.facebook.com/melabudin/)
 
 ## Online
 
