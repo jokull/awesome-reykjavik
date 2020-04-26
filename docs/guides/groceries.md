@@ -11,7 +11,7 @@ more locations with more numerous smaller-scale ones.
 
 There is also a Costco by the IKEA in Garðabær, but they run a franchise
 arrangement where you will need to become a member to shop there (in bulk!).
-Icelanders wen’t absolutely nuts when they opened a few years ago. IKEA also
+Icelanders went absolutely nuts when they opened a few years ago. IKEA also
 have a budget mini-market after checkout.
 
 Other budget picks: Nettó, Super1 (newcomer),

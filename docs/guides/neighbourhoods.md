@@ -74,7 +74,7 @@ interesting melting pot in its own right. Laugardalur has a huge pool park with
 a fitness center and spa, as well as the biggest sports venues.
 
 Outside of these areas mentioned you basically have car centric sprawls and
-then the surrounding municipalities; Kópavogur then Grafarholt then Hafnarförð
+then the surrounding municipalities; Kópavogur then Garðabær then Hafnarförð
 to the south, Seltjarnarnes on the peninsula to the west and Grafarholt then
 Mosfellsbær in the north-east direction.
 
