@@ -21,7 +21,7 @@ Pages that are not yet linked are suggestions for pages. We welcome contribution
 1. [Getting a bank account](guides/bank-account.md)
 1. [Driver’s license](guides/drivers-license.md)
 1. Access to healthcare
-1. International schools
+1. [International schools](guides/international-schools.md)
 1. [Getting help](guides/getting-help.md)
 1. [Language](guides/language.md)
 1. Eating out and ordering in
