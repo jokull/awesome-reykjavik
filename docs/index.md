@@ -58,6 +58,8 @@ quickest way to onboard.
 - [David Blurton](https://github.com/davidblurton)
 - [Kristinn Árni L. Hróbjartsson](https://github.com/kiddi)
 - [Brynjar Örnu- og Guðnason](https://github.com/brynjarog)
+- [Alex Couper](https://github.com/alexcouper)
+- Bryndís Jónatansdóttir
 
 ## How to contribute
 
