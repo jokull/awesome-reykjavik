@@ -1,8 +1,8 @@
 # Language
 
 The official language of Iceland is Icelandic. English is very widely spoken,
-and it's unlikely that you'll encounter anyone in your day-to-day life who
-speaks less than perfect English.
+and it's unlikely that you'll encounter anyone in your day-to-day life who isn't
+able to communicate effectively in English.
 
 However, it will certainly smooth your daily interactions to understand key
 phrases used in shops and restaurants. It will also be helpful to be able to
