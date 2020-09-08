@@ -36,7 +36,7 @@ If you intend to stay more than three months you need to prove your EU/EEA resid
 1. Before arriving in Iceland submit an [A-271](https://www.skra.is/umsoknir/rafraen-skil/skraning-ees-eda-efta-borgara-i-thjodskra-til-lengri-tima-en-3-man/?lang=en).
 2. When you arrive, visit the nearest police station to present your
    idenfication and documents (passport), referencing the application number.
-3. The kennitala will be sent to you via email when an valid applicant is
+3. The kennitala will be sent to you via email when a valid applicant is
    processed.
 
 ### A-271 Steps: Preparing documents and information
@@ -70,9 +70,38 @@ As of April 18, 2020, these are the fields presented
 
 ## Outside EU/EEU
 
-The process here is similar (in theory), but you will likely need an employer
-to vouch for you and get you on the expert knowledge program first. See the
-[Working in Iceland guide](./working-in-iceland.md).
+!!! tip
+    The EU/EEA trade zone includes European Union nations, as well as EFTA member states: Iceland, Liechtenstein, Norway and Switzerland. This means we are not officially in the European Union, although between the nations there is freedom to travel, work, ship goods and trade.
+
+For people with a legal residence outside the EU/EEA trade zone, getting legal residence and work status in Iceland will require an employer to vouch for you and get you on the expert knowledge program. See the [Working in Iceland guide](./working-in-iceland.md).
+
+For others it is still possible to get a three month [temporary kennitala](https://www.skra.is/english/individuals/moving-to-iceland/i-am-a-citizen-of-a-country-outside-eea-efta/) and a bank account.
+
+### Step 1
+
+Contact a bank via their email or chat on their website (not by going in to the branch, that will just confuse the poor customer service rep). You should explain the following:
+
+> “I would like to open a bank account, but I don’t yet have a kennitala. Can you confirm via email that I will need a kennitala to open a bank account at your bank?”
+
+They will reply that of course you do. Save that email in PDF form.
+
+### Step 2
+
+Fill out [this form](https://skra.eydublod.is/Forms/Form/A-269) and sign it (you can use the digital signature built into Preview on OS X, or similar digitized signature feature). In the field for “Reason for Application, put “Open a bank account”. 
+
+Create a single PDF that has:
+
+- The A-269 form (filled out and signed)
+- A copy of the email from the bank
+- A copy of the first page of your passport
+
+### Step 3
+
+Email the PDF to [kennitolur@skra.is](mailto:kennitolur@skra.is). They will generally take 3-4 days to respond.
+
+### Step 4
+
+It will take another 3-4 days after they email you the System ID Kennitala for it to actually be in the National Registry. Wait until then to open a bank account (or use it at a store, etc.).
 
 ## References
 
