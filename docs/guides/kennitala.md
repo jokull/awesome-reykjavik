@@ -73,9 +73,7 @@ As of April 18, 2020, these are the fields presented
 !!! tip
     The EU/EEA trade zone includes European Union nations, as well as EFTA member states: Iceland, Liechtenstein, Norway and Switzerland. This means we are not officially in the European Union, although between the nations there is freedom to travel, work, ship goods and trade.
 
-For people with a legal residence outside the EU/EEA trade zone, getting legal residence and work status in Iceland will require an employer to vouch for you and get you on the expert knowledge program. See the [Working in Iceland guide](./working-in-iceland.md).
-
-For others it is still possible to get a three month [temporary kennitala](https://www.skra.is/english/individuals/moving-to-iceland/i-am-a-citizen-of-a-country-outside-eea-efta/) and a bank account.
+For people with a legal residence outside the EU/EEA trade zone, getting legal residence and work status in Iceland will require an employer to vouch for you and get you on the expert knowledge program. See the [Working in Iceland guide](./working-in-iceland.md). For others it is still possible to get a permanent **[Kerfiskennitala](https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/system-id-number/)**) (translation: System ID) and a bank account.
 
 ### Step 1
 
@@ -87,11 +85,11 @@ They will reply that of course you do. Save that email in PDF form.
 
 ### Step 2
 
-Fill out [this form](https://skra.eydublod.is/Forms/Form/A-269) and sign it (you can use the digital signature built into Preview on OS X, or similar digitized signature feature). In the field for “Reason for Application, put “Open a bank account”. 
+Fill out [this form](../images/A-275.pdf) and sign it (you can use the digital signature built into Preview on OS X, or similar digitized signature feature). In the field for “Reason for Application, put “Open a bank account”. 
 
 Create a single PDF that has:
 
-- The A-269 form (filled out and signed)
+- The A-275 form (filled out and signed)
 - A copy of the email from the bank
 - A copy of the first page of your passport
 
