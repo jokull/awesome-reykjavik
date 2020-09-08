@@ -73,7 +73,7 @@ As of April 18, 2020, these are the fields presented
 !!! tip
     The EU/EEA trade zone includes European Union nations, as well as EFTA member states: Iceland, Liechtenstein, Norway and Switzerland. This means we are not officially in the European Union, although between the nations there is freedom to travel, work, ship goods and trade.
 
-For people with a legal residence outside the EU/EEA trade zone, getting legal residence and work status in Iceland will require an employer to vouch for you and get you on the expert knowledge program. See the [Working in Iceland guide](./working-in-iceland.md). For others it is still possible to get a permanent **[Kerfiskennitala](https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/system-id-number/)**) (translation: System ID) and a bank account.
+For people with a legal residence outside the EU/EEA trade zone, getting legal residence and work status in Iceland will require an employer to vouch for you and get you on the expert knowledge program. See the [Working in Iceland guide](./working-in-iceland.md). For others it is still possible to get a permanent **[Kerfiskennitala](https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/system-id-number/)** (translation: System ID) and a bank account.
 
 ### Step 1
 
