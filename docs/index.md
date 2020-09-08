@@ -60,6 +60,7 @@ quickest way to onboard.
 - [Brynjar Örnu- og Guðnason](https://github.com/brynjarog)
 - [Alex Couper](https://github.com/alexcouper)
 - Bryndís Jónatansdóttir
+- Kevin Laws
 
 ## How to contribute
 
