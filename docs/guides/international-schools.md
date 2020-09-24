@@ -2,7 +2,7 @@
 
 There are two options for international grade school education in the capital area. For pre-bachelor entry into higher education MH provides a two year IB corriculum. 
 
-Iceland has a ten year compulsary grade school level and then three at the pre-bachelor level ("menntaskóli"), which means people are at their 19th year when entering higher education. The pre-bachelor level was shortened form four years in 2015, with schools gradually complying. 
+Iceland has a ten year compulsary grade school level and then three at the upper secondary level ("menntaskóli"), which means people are at their 19th year when entering higher education. The upper secondary level was shortened form four years in 2015, with schools gradually complying. 
 
 ## International School of Iceland
 
