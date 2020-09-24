@@ -35,7 +35,7 @@ The main legal contracts surrounding employment are Collective Bargaining Agreem
 ### Unions
 In many cases, employees are legally required to be part of a union, or at the minimum, pay into a union. Knowledge workers and experts usually have more control over this and can choose between unions. Unions are either for government and private market workers, and then within those two main categories, they're divided into groups and unions based on type of work and education.
 
-Althought their main role is to negotiate salaries and other terms for work, unions offer their members all sorts of benefits, depending on the union. Benefits often include reimbursements for medical costs, legal assistance and summer house rentals at a low price. Unions also assist their members with issues relating to salaries, working conditions and such.
+Although their main role is to negotiate salaries and other terms for work, unions offer their members all sorts of benefits, depending on the union. Benefits often include reimbursements for medical costs, legal assistance and summer house rentals at a low price. Unions also assist their members with issues relating to salaries, working conditions and such.
 
 Examples of unions are VR, Efling, BHM and Starfsgreinasambandið. [A list of all unions can be found here](https://www.samband.is/verkefnin/kjara--og-starfsmannamal/kjarasamningar-og-launatoflur/stettarfelog-i-stafrofsrod/) .
 
