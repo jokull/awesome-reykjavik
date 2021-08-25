@@ -77,3 +77,7 @@ contribute.
 1. If you're not familiar with Github, you can email
    [jokull@solberg.is](mailto:jokull@solberg.is) to publish a guide of your
    own.
+
+## Further reading
+
++ [Multicultural and information center](https://www.mcc.is)
