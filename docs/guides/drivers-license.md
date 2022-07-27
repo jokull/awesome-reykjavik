@@ -21,3 +21,7 @@ An application usually includes:
 !!!tip
     If you require glasses to drive, you may need to get a note from a
     doctor to confirm your vision is adequate for driving.
+    
+ ## Resources
+
+- [Fjölmenningarsetur guide](https://www.mcc.is/transport/driving-licence/)
