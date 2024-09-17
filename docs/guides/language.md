@@ -24,7 +24,7 @@ An alternative for people who can't attend school for whatever reason is the
 wealth of free Icelandic learning resources hosted by tungumalatorg and
 [mms.is](mms.is) run by Miðstöð menntunar og skólaþjónustu.  For
 Tungumálatorg.is, the most famous example is [Íslenska fyrir
-alla](https://tungumalatorg.is/ifa/)
+alla](https://tungumalatorg.is/ifa/). However, learning Icelandic will not completely solve an immigrant's integration issues as is detailed in the article, [We Are Inlanders](https://studentabladid.is/efni/2023/12/14/we-are-inlanders-the-experience-of-a-student-in-icelandic-as-a-second-language) [(Icelandic)](https://studentabladid.is/efni/2023/12/14/vi-erum-innlendingar-upplifun-nemanda-slensku-sem-annars-mls).
 
 ## Icelandic tests
 
@@ -32,4 +32,4 @@ In order to become Icelandic citizens, a large majority of immigrants need to
 pass an Icelandic language test. Here is an example from the government of the
 test given out: https://mms.is/sites/mms.is/files/synisprof_ipr_24.pdf
 The Icelandic citizenship test as well as the Icelandic residency test are both
-administered by Mimir on behalf of the government.
+administered by Mímir on behalf of the government. In 2023, [The Student Paper](https://studentabladid.is) published [an in-depth article](https://studentabladid.is/efni/2023/12/14/application-for-icelandic-citizenship-an-evaluation-of-merit) [(Icelandic)](https://studentabladid.is/efni/2023/12/14/umskn-um-rkisborgarartt-prf-verleikum) describing what to expect when taking the Icelandic citizenship test. 
