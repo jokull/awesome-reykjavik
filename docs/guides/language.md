@@ -23,7 +23,7 @@ foreigners. Most of them are heavily subsidised by your union membership.
 An alternative for people who can't attend school for whatever reason is the
 wealth of free Icelandic learning resources hosted by tungumalatorg and
 [mms.is](mms.is) run by Miðstöð menntunar og skólaþjónustu.  For
-Tungumálatorg.is, the most famous example is (Íslenska fyrir
+Tungumálatorg.is, the most famous example is [Íslenska fyrir
 alla](https://tungumalatorg.is/ifa/)
 
 ## Icelandic tests
