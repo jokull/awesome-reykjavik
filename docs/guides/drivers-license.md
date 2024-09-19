@@ -1,7 +1,7 @@
 # Driver’s license
 
 If you have a driving licence from an EEA country you can drive in Iceland
-using your foriegn licence for the first 6 months. It's a good idea to trade in
+using your foreign licence for the first 6 months. It's a good idea to trade in
 your driver's licence for an Icelandic one as soon as possible. This will
 likely be your main physical Icelandic ID.
 
@@ -21,7 +21,17 @@ An application usually includes:
 !!!tip
     If you require glasses to drive, you may need to get a note from a
     doctor to confirm your vision is adequate for driving.
-    
- ## Resources
 
-- [Fjölmenningarsetur guide](https://www.mcc.is/transport/driving-licence/)
+For the theoretical portion, if you are not fluent in Icelandic or English, it
+is possible to ask to have both the Icelandic and English versions of the test
+in front of you, on your desk.
+
+There are also several apps and websites which provide tests of the Icelandic
+road signs and rules.
+    
+### Getting an A class license
+
+It requires finding an motorcycle instructor but otherwise it is the same as
+the above instructions.
+
+
