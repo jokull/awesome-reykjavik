@@ -39,7 +39,7 @@ Many employers have default unions and pension funds based on the type of job. A
 The main legal contracts surrounding employment are Collective Bargaining Agreements (is. Kjarasamningar) and then the individual agreements between employee and employer. There are no laws that mandate minimum wages or minimum benefits. They are governed through the collective agreements of labor unions and employer groups.
 
 ### Unions
-In many cases, employees are legally required to be part of a union, or at the minimum, pay into a union. Unions are divided into government and private market workers, and then within those two main categories, your union often depends on your profession, industry or sector, and education. Identify the sector your job falls under (e.g., construction, healthcare, IT), as this will narrow down your union options. Knowledge workers and experts usually have more control over this and can choose between unions. 
+In many cases, employees are legally required to be part of a union, or at the minimum, pay into a union. Unions are divided into government and private market workers, and then within those two main categories, your union often depends on your profession, industry or sector, and education. Bankers, engineers, and software engineers are examples of professions with specialized unions. Identify the sector your job falls under (e.g., construction, healthcare, IT), as this will narrow down your union options. Knowledge workers and experts usually have more control over this and can choose between unions. 
 
 ### Research Available Unions
 * **Browse Unions by Sector:**
