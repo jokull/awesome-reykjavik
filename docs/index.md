@@ -2,7 +2,7 @@
 
 A guide to moving to Reykjavík and the capital region.
 
-Pages that are not yet linked are suggestions for pages. We welcome contributions. See [how to contibute](#how-to-contribute) below.
+Pages that are not yet linked are suggestions for pages. We welcome contributions. See [how to contribute](#how-to-contribute) below.
 
 ## Guides
 
@@ -26,7 +26,7 @@ Pages that are not yet linked are suggestions for pages. We welcome contribution
 1. [Getting help](guides/getting-help.md)
 1. [Language](guides/language.md)
 1. Eating out and ordering in
-1. [About the Icelander](guides/icelanders.md)]
+1. [About the Icelander](guides/icelanders.md)
 
 ## The Trinity: Kennitala, Mobile Plan and Bank Account
 
@@ -62,6 +62,7 @@ quickest way to onboard.
 - [Alex Couper](https://github.com/alexcouper)
 - Bryndís Jónatansdóttir
 - Kevin Laws
+- [Judy Fong](https://github.com/judyfong)
 
 ## How to contribute
 
@@ -74,7 +75,7 @@ contribute.
 1. We have a [Facebook group we encourage you to
    join](https://www.facebook.com/groups/176641773386901).
 1. Fork and send us a Pull Request on GitHub (preferred).
-1. If you're not familiar with Github, you can email
+1. If you're not familiar with GitHub, you can email
    [jokull@solberg.is](mailto:jokull@solberg.is) to publish a guide of your
    own.
 
