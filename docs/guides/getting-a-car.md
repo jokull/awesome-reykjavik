@@ -3,7 +3,9 @@
 Icelanders love cars. We export energy and fish and import cars. We have
 extremely high car ownership per household. 
 
-Cars can be looked up on [the public vehicle registry](https://island.is/en/information-from-vehicle-registrar). Cars in the capital area tend to have more rust than up north because Reykjavik salts their roads but Akureyri does not. Car registration and transfers are handled online but you can also submit a paper form to the [Icelandic Transport Authority (Samgöngustofa)](https://island.is/en/o/transport-authority) offices. A car must be free of any fees before ownership can be transfered. Choosing car insurance is bundled into the car buying process. 
+Cars can be looked up on [the public vehicle registry](https://island.is/en/information-from-vehicle-registrar). Cars in the capital area tend to have more rust than up north because Reykjavik salts their roads but Akureyri does not. Car registration and transfers are handled online but you can also submit a paper form to the [Icelandic Transport Authority (Samgöngustofa)](https://island.is/en/o/transport-authority) offices. A car must be free of any fees before ownership can be transfered. Choosing car insurance is bundled into the car buying process. However, the insurance companies don't tend to give you the lowest rate unless you shop around.
+
+Cars generally need to pass an annual checkup to stay on the roads. Car owners must pay a bi-annual road tax.
 
 ## Electric
 

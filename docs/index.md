@@ -15,13 +15,14 @@ Pages that are not yet linked are suggestions for pages. We welcome contribution
 1. Finding a permanent place to stay
 1. [Guide to neighborhoods and postal codes](guides/neighbourhoods.md)
 1. [Public transport](guides/public-transport.md)
+1. [Bicycles and E-scooters](guides/bicycles-and-escooters.md)
 1. [Getting a car](guides/getting-a-car.md)
 1. Shopping for furniture and electronics
 1. [Grocery shopping](guides/groceries.md)
 1. [Furniture and electronics](guides/furniture-electronics.md)
 1. [Getting a bank account](guides/bank-account.md)
 1. [Driver’s license](guides/drivers-license.md)
-1. Access to healthcare
+1. [Access to healthcare](healthcare.md)
 1. [International schools](guides/international-schools.md)
 1. [Getting help](guides/getting-help.md)
 1. [Language](guides/language.md)
