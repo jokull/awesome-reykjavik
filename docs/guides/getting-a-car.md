@@ -21,6 +21,9 @@ The biggest used car aggregator is [Bílasölur.is](https://bilasolur.is). Peopl
 also buy and sell passenger vehicles on [Facebook (search results for "bílar
 til sölu")](https://www.facebook.com/search/top/?q=b%C3%ADlar%20til%20sölu&epa=SEARCH_BOX).
 
+For peer-to-peer sales without a dealer, [Auto.is](https://auto.is) is a
+dedicated marketplace where private sellers and buyers can transact directly.
+
 ## Tires
 Used tires are sold by Sorpa and [Vaka](https://vaka.is/en/?lang=en). Vaka also changes tires. Studded tires are allowed in the winter time and there are usually notices in the papers about when the government will start fining cars with studs. However, in the capital area, all-weather tires are usually sufficient. The main roads tend to be cleared quickly and regularly when it snows.
 
